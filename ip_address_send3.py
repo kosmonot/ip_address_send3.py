@@ -61,8 +61,8 @@ if internet_on():
  		smtp_server = 'smtp.gmail.com'
 		smtp_port = 587
  		sender = '****@gmail.com'
-		# recipients = ["*****2001@hotmail.com", "john@jla3.com"]
-		recipients = ["*****@jla3.com"]
+		# recipients = ["*****2001@hotmail.com", "john@***.com"]
+		recipients = ["*****@***.com"]
 
 
 		subject = 'SERVER ALERT'
