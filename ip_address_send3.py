@@ -99,7 +99,7 @@ if internet_on():
 		auth_token="***********************************"
 		client = conn.GoogleVoice(username,apppass,auth_token,rnr_se)
 		#phone number below
-		client.sms('1212673****',smstext)
+		client.sms('1212*******',smstext)
 
                                                                         
 
